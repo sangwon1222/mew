@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'BPreplay';
+	font-style: normal;
+	font-weight: normal;
+	src:url('BPreplay.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'BPreplay';
+	font-style: normal;
+	font-weight: bold;
+	src:url('BPreplayBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'BPreplay';
+	font-style: italic;
+	font-weight: normal;
+	src:url('BPreplayItalics.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'BPreplay';
+	font-style: italic;
+	font-weight: bold;
+	src:url('BPreplayBoldItalics.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'NotoSansKR';
+	font-style: normal;
+	font-weight: normal;
+	src:url('NotoSansKR-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'NotoSansKR';
+	font-style: normal;
+	font-weight: 700;
+	src:url('NotoSansKR-Bold.otf') format('opentype');
+}

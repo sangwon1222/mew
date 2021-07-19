@@ -1,0 +1,325 @@
+export const b1= {
+
+    images:[
+        "bg_1_twinkle_boy_glow.png",
+        "bg_1_twinkle_boy.png",
+        "bg_1_twinkle_car_glow.png",
+        "bg_1_twinkle_car.png",
+        "bg_1_twinkle_girl_glow.png",
+        "bg_1_twinkle_girl.png",
+        "bg_1_twinkle_owl_glow.png",
+        "bg_1_twinkle_owl.png",
+        "bg_2_twinkle_leaf_glow.png",
+        "bg_2_twinkle_leaf.png",
+        "bg_2_twinkle_moon_glow.png",
+        "bg_2_twinkle_moon.png",
+        "bg_2_twinkle_star_glow.png",
+        "bg_2_twinkle_star.png",
+        "bg_2_twinkle_tree_glow.png",
+        "bg_2_twinkle_tree.png",
+        "twinkle_bg_1.png",
+        "twinkle_bg_2.png",
+        
+    ],
+    sounds:[
+        "pg_9.mp3",
+        "pg_13.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[],
+}
+    
+export const b2= {
+    images:[
+        "littlejack_bg_1.png",
+        "littlejack_bg_2.png",
+        "bg_1_littlejack_bear_glow.png",
+        "bg_1_littlejack_bear.png",
+        "bg_1_littlejack_corolla_glow.png",
+        "bg_1_littlejack_corolla.png",
+        "bg_1_littlejack_gifts_glow.png",
+        "bg_1_littlejack_gifts.png",
+        "bg_1_littlejack_socks_glow.png",
+        "bg_1_littlejack_socks.png",
+        "bg_2_littlejack_boy_glow.png",
+        "bg_2_littlejack_boy.png",
+        "bg_2_littlejack_pie_glow.png",
+        "bg_2_littlejack_pie.png",
+        "bg_2_littlejack_plum_glow.png",
+        "bg_2_littlejack_plum.png",
+        "bg_2_littlejack_snowman_glow.png",
+        "bg_2_littlejack_snowman.png",
+    ],
+    sounds:[
+        "pg_47.mp3",
+        "pg_53.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b3= {
+    images:[
+        "hickory_bg_1.png",
+        "hickory_bg_2.png",
+        "bg_1_hickory_chair_glow.png",
+        "bg_1_hickory_chair.png",
+        "bg_1_hickory_drawer_glow.png",
+        "bg_1_hickory_drawer.png",
+        "bg_1_hickory_light_glow.png",
+        "bg_1_hickory_light.png",
+        "bg_1_hickory_obj.png",
+        "bg_1_hickory_toy_glow.png",
+        "bg_1_hickory_toy.png",
+        "bg_2_hickory_ball_glow.png",
+        "bg_2_hickory_ball.png",
+        "bg_2_hickory_clock_glow.png",
+        "bg_2_hickory_clock.png",
+        "bg_2_hickory_frame_glow.png",
+        "bg_2_hickory_frame.png",
+        "bg_2_hickory_mouse_glow.png",
+        "bg_2_hickory_mouse.png",
+    ],
+    sounds:[
+        "pg_17.mp3",
+        "pg_23.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b4= {
+    images:[
+        "diddle_bg_1.png",
+        "diddle_bg_2.png",
+        "bg_1_diddle_cat_drop.png",
+        "bg_1_diddle_cat.png",
+        "bg_1_diddle_cow_drop.png",
+        "bg_1_diddle_cow.png",
+        "bg_1_diddle_fiddle_drop.png",
+        "bg_1_diddle_fiddle.png",
+        "bg_1_diddle_moon_drop.png",
+        "bg_1_diddle_moon.png",
+        "bg_2_diddle_bag_drop.png",
+        "bg_2_diddle_bag.png",
+        "bg_2_diddle_dish_drop.png",
+        "bg_2_diddle_dish.png",
+        "bg_2_diddle_dog_drop.png",
+        "bg_2_diddle_dog.png",
+        "bg_2_diddle_spoon_drop.png",
+        "bg_2_diddle_spoon.png",
+    ],
+    sounds:[
+        "pg_1.mp3",
+        "pg_5.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b5= {
+    images:[
+        "bg_1_jinglebell_elf_glow.png",
+        "bg_1_jinglebell_elf.png",
+        "bg_1_jinglebell_horse_glow.png",
+        "bg_1_jinglebell_horse.png",
+        "bg_1_jinglebell_house_glow.png",
+        "bg_1_jinglebell_house.png",
+        "bg_1_jinglebell_obj.png",
+        "bg_1_jinglebell_sled_glow.png",
+        "bg_1_jinglebell_sled.png",
+        "bg_2_jinglebell_gift_glow.png",
+        "bg_2_jinglebell_gift.png",
+        "bg_2_jinglebell_obj.png",
+        "bg_2_jinglebell_santa_glow.png",
+        "bg_2_jinglebell_santa.png",
+        "bg_2_jinglebell_snowman_glow.png",
+        "bg_2_jinglebell_snowman.png",
+        "bg_2_jinglebell_tree_glow.png",
+        "bg_2_jinglebell_tree.png",
+        "jinglebell_bg_1.png",
+        "jinglebell_bg_2.png",
+        "jinglebell_rope.png",
+    ],
+    sounds:[
+        "pg_29.mp3",
+        "pg_38.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b6= {
+    images:[
+        "bg1_finger_baby_glow.png",
+        "bg1_finger_baby.png",
+        "bg1_finger_brother_glow.png",
+        "bg1_finger_brother.png",
+        "bg1_finger_daddy_glow.png",
+        "bg1_finger_daddy.png",
+        "bg1_finger_mommy_glow.png",
+        "bg1_finger_mommy.png",
+        "bg1_finger_sister_glow.png",
+        "bg1_finger_sister.png",
+        "finger_bg_1.png",
+        "finger_bg_2.png",
+        "finger_bg_3.png",
+    ],
+    sounds:[
+        "pg_59.mp3",
+        "pg_68.mp3",
+        "pg_77.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b7= {
+    images:[
+        "bg1_happy_broccoli_glow.png",
+        "bg1_happy_broccoli.png",
+        "bg1_happy_eggplant_glow.png",
+        "bg1_happy_eggplant.png",
+        "bg1_happy_onion_glow.png",
+        "bg1_happy_onion.png",
+        "bg1_happy_pears_glow.png",
+        "bg1_happy_pears.png",
+        "bg1_happy_pineapple_glow.png",
+        "bg1_happy_pineapple.png",
+        "bg1_happy_turnip_glow.png",
+        "bg1_happy_turnip.png",
+        "bg2_happy_carrot_glow.png",
+        "bg2_happy_carrot.png",
+        "bg2_happy_eggplant_glow.png",
+        "bg2_happy_eggplant.png",
+        "bg2_happy_garlic_glow.png",
+        "bg2_happy_garlic.png",
+        "bg2_happy_onion_glow.png",
+        "bg2_happy_onion.png",
+        "bg2_happy_pineapple_glow.png",
+        "bg2_happy_pineapple.png",
+        "bg2_happy_strawberry_glow.png",
+        "bg2_happy_strawberry.png",
+        "happy_bg_1.png",
+        "happy_bg_2.png",
+    ],
+    sounds:[
+        "pg_86.mp3",
+        "pg_91.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b8= {
+    images:[
+        "thisistheway_bg_1.png",
+        "thisistheway_bg_2.png",
+        "bg_1_thisistheway_boy_glow.png",
+        "bg_1_thisistheway_boy.png",
+        "bg_1_thisistheway_comb_glow.png",
+        "bg_1_thisistheway_comb.png",
+        "bg_1_thisistheway_toothbrush_glow.png",
+        "bg_1_thisistheway_toothbrush.png",
+        "bg_1_thisistheway_towel_glow.png",
+        "bg_1_thisistheway_towel.png",
+        "bg_2_thisistheway_bag_glow.png",
+        "bg_2_thisistheway_bag.png",
+        "bg_2_thisistheway_boy_glow.png",
+        "bg_2_thisistheway_boy.png",
+        "bg_2_thisistheway_elf_glow.png",
+        "bg_2_thisistheway_elf.png",
+        "bg_2_thisistheway_school_glow.png",
+        "bg_2_thisistheway_school.png",
+    ],
+    sounds:[
+        "pg_96.mp3",
+        "pg_103.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b9= {
+    images:[
+        "bg_1_oldmac_duck_glow.png",
+        "bg_1_oldmac_duck.png",
+        "bg_1_oldmac_girl_glow.png",
+        "bg_1_oldmac_girl.png",
+        "bg_1_oldmac_horse_glow.png",
+        "bg_1_oldmac_horse.png",
+        "bg_1_oldmac_pig_glow.png",
+        "bg_1_oldmac_pig.png",
+        "bg_2_oldmac_cow_glow.png",
+        "bg_2_oldmac_cow.png",
+        "bg_2_oldmac_dog_glow.png",
+        "bg_2_oldmac_dog.png",
+        "bg_2_oldmac_grandfather_glow.png",
+        "bg_2_oldmac_grandfather.png",
+        "bg_2_oldmac_sheep_glow.png",
+        "bg_2_oldmac_sheep.png",
+        "oldmac_bg_1.png",
+        "oldmac_bg_2.png",
+    ],
+    sounds:[
+        "pg_108.mp3",
+        "pg_113.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
+    
+export const b10= {
+    images:[
+        "onthebus_bg_1.png",
+        "onthebus_bg_2.png",
+        "bg1_onthebus_bg1.png",
+        "bg1_onthebus_building_2_glow.png",
+        "bg1_onthebus_building_2.png",
+        "bg1_onthebus_car_glow.png",
+        "bg1_onthebus_car.png",
+        "bg1_onthebus_cloud_1_glow.png",
+        "bg1_onthebus_cloud_1.png",
+        "bg1_onthebus_cloud_2_glow.png",
+        "bg1_onthebus_cloud_2.png",
+        "bg1_onthebus_cloud_3_glow.png",
+        "bg1_onthebus_cloud_3.png",
+        "bg1_onthebus_moon_glow.png",
+        "bg1_onthebus_moon.png",
+        "bg1_onthebus_star_1_glow.png",
+        "bg1_onthebus_star_1.png",
+        "bg1_onthebus_star_2_glow.png",
+        "bg1_onthebus_star_2.png",
+        "bg1_onthebus_star_3_glow.png",
+        "bg1_onthebus_star_3.png",
+        "bg2_onthebus_boy_glow.png",
+        "bg2_onthebus_boy.png",
+        "bg2_onthebus_bus_bg.png",
+        "bg2_onthebus_chair_1_bg.png",
+        "bg2_onthebus_chair_2_bg.png",
+        "bg2_onthebus_chauffeur_glow.png",
+        "bg2_onthebus_chauffeur.png",
+        "bg2_onthebus_father_glow.png",
+        "bg2_onthebus_father.png",
+        "bg2_onthebus_girl_glow.png",
+        "bg2_onthebus_girl.png",
+        "bg2_onthebus_mother_glow.png",
+        "bg2_onthebus_mother.png",
+    ],
+    sounds:[
+        "pg_118.mp3",
+        "pg_123.mp3"
+    ],
+    json:[],
+    videos:[],
+    spine:[]
+}
